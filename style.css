@@ -5,6 +5,7 @@ main {
     align-items: center;
     padding-top: 7vh;
     gap: 7vh;
+    padding-bottom: 70px;
 }
 
 .content-container {
@@ -31,4 +32,10 @@ main {
 .row {
     gap: 30px;
     justify-content: center;
+}
+
+.buttons-container {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 50px
 }
